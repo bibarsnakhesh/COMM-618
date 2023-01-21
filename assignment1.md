@@ -10,5 +10,5 @@
 | User one | 2 | 3 | 2 |
 | User seven | 4 | 4 | 4 |
 
-* More particiapnts are willing to face 100 duck sized horses: The pool reflects that the group believes handling a large number of small tasks is easier than one massive project
+* More particiapnts are willing to face 100 duck sized horses: The pool reflects that the group believes handling a large number of small tasks is easier than one massive project. 
 <img src="https://qph.cf2.quoracdn.net/main-qimg-9ad8f80fdd00fe9949ec0a8ffe6c0348-lq">
