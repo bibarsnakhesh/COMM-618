@@ -21,3 +21,11 @@ The Republican National Committee (RNC), the governing body of the GOP, paid ove
 The former president’s campaign also received over 25 million dollars within the first two years of the Trump presidency. The Trump Make America Great Again Committee offered more than 20 million dollars to the former president’s campaign during the first 15 months of his presidency. The Trump Victory political action committee offered more than five million dollars, according to the FEC’s data.
 
 Political Action Committees (PACs) are money-raising entities that are usually organized to finance political candidates or defeat them. According to the FEC, super PACs are committees that may receive an unlimited contribution from individuals, corporations, and other PACs to finance independent expenditures and other independent political activity.
+
+________________________________________________________________________
+
+_To obtain the data, I filtered the payments that were made by the Donald J. Trump for President, INC, to show all the disbursements that were made by the Trump campaign. Then I created a pivot table to see where the recipients of these payments._
+
+_I also filtered the payments that were made to the Donald J. Trump for President, INC, to see the donations that were made straight to the Trump campaign._ 
+
+
