@@ -8,6 +8,7 @@ Donald J. Trump for President, Inc paid hundreds of thousands of dollars to busi
 
 The FEC’s data shows that over half a million dollars of disbursements were offered as rent, the majority of which went to the Trump Tower in New York. Around $168,000 were offered as “legal consulting” fees to the Trump Corporation in New York. 
 
+<img src="https://raw.githubusercontent.com/bibarsnakhesh/COMM-618/main/Trump%20Campaign%20Spending%20in%20Trump%20Businesses.png">
 
 Trump Ice LLC, the former president’s water bottle company received $1700 of disbursements from his political campaign. The purpose of these payments was listed as office supplies according to the FEC’s receipts. 
 
