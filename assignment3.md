@@ -1,10 +1,10 @@
 Done
 
-# President Trump’s campaign spent 800,000 on his businesses in 2017 and 2018
+# President Trump’s campaign spent $800,000 at his businesses in 2017 and 2018
 
 <sub>_By Bibars Nakhesh_</sub>
 
-The presidential campaign of former president Donald Trump spent more than $800,000 on his businesses during the first two years of his presidency, according to [data published by the Federal Election Commission (FEC)](https://docs.google.com/spreadsheets/d/1gEuPXAllpfn6IvX4rfZJjdU_3ZGeQXJTcjW2xfvoMsw/edit?usp=sharing).
+The presidential campaign of former President Donald Trump spent more than $800,000 at his businesses during the first two years of his presidency, according to [data published by the Federal Election Commission (FEC)](https://docs.google.com/spreadsheets/d/1gEuPXAllpfn6IvX4rfZJjdU_3ZGeQXJTcjW2xfvoMsw/edit?usp=sharing).
 
 Donald J. Trump for President, Inc paid hundreds of thousands of dollars to businesses owned by the former president. These businesses include his hotels in Washington, D.C., and Las Vegas, and the Trump Tower in New York. 
 
@@ -12,7 +12,7 @@ The FEC’s data shows that over half a million dollars of disbursements were of
 
 <img src="https://raw.githubusercontent.com/bibarsnakhesh/COMM-618/main/Trump%20Campaign%20Spending%20in%20Trump%20Businesses.png">
 
-Trump Ice LLC, the former president’s water bottle company received $1700 of disbursements from his political campaign. The purpose of these payments was listed as office supplies according to the FEC’s receipts. 
+Trump Ice LLC, the former president’s water bottle company received $1700 of disbursements from his political campaign during this time. The purpose of these payments was listed as "Office Supplies" according to the FEC’s receipts. 
 
 Other purposes of disbursements included lodging, travel, and catering services.
 
