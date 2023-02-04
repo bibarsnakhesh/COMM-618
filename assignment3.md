@@ -16,7 +16,7 @@ Trump Ice LLC, the former president’s water bottle company received $1700 of d
 
 Other purposes of disbursements included lodging, travel, and catering services.
 
-The Republican National Committee (RNC), the governing body of the GOP, paid over a half million dollars to Trump Businesses. These disbursements were around $200,000 to the Trump International Hotel in Washington, D.C. Another $200,000 was paid to the Miami Trump National Hotel and Resort. 
+The Republican National Committee (RNC), the governing body of the GOP, paid over a half million dollars to Trump Businesses. These disbursements included around $200,000 to the Trump International Hotel in Washington, D.C. Another $200,000 was paid to the Miami Trump National Hotel and Resort. 
 
 The former president’s campaign also received over 25 million dollars within the first two years of the Trump presidency. The Trump Make America Great Again Committee offered more than 20 million dollars to the former president’s campaign during the first 15 months of his presidency. The Trump Victory political action committee offered more than five million dollars, according to the FEC’s data.
 
