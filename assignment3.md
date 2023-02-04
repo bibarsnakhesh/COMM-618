@@ -1,3 +1,5 @@
+Done
+
 # President Trump’s campaign spent 800,000 on his businesses in 2017 and 2018
 
 <sub>_By Bibars Nakhesh_</sub>
