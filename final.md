@@ -31,7 +31,7 @@ Immigrants aiming to gain permanent residency or green cards often face a tediou
 
 ![myimage](RefugeesVsAsylees.jpg)
 
-While asylees arrive spontaneously at U.S. borders to seek protection, refugees apply for protection while overseas. When it comes to resettling these refugees, The United States delegates the task to non-governmental voluntary organizations. 
+[While asylees arrive spontaneously at U.S. borders to seek protection, refugees apply for protection while overseas](https://docs.google.com/spreadsheets/d/1NeEKLdyNF37NbZcX2Q80m9nwD6UAV0Ai/edit?usp=sharing&ouid=114272850365599444803&rtpof=true&sd=true). When it comes to resettling these refugees, The United States delegates the task to non-governmental voluntary organizations. 
 
 “We rely in the United States very much on nonprofit assistance and the willingness of governments to provide basic services,” said Lauren Carruth, an Associate Professor at American University. 
 
