@@ -1,7 +1,7 @@
 # Refugee groups witnessed fastest growth in U.S. naturalization during the past two decades
 
 
-Refugee populations in the United States have witnessed a faster rate of naturalization than other migrant groups during the past twenty years according to the U.S. Census Bureau data. 
+Refugee populations in the United States have witnessed a faster rate of naturalization than other migrant groups during the past twenty years [according to the U.S. Census Bureau data. ](https://docs.google.com/spreadsheets/d/1DkQngdQOYKiHlS_HsX7NxatTcu34XaSQLT1_TAVGw-4/edit?usp=sharing)
 
 Populations of new American citizens who were born in Bhutan, the Democratic Republic of Congo, and Burma, have been among the fastest growing during the past two decades. 
 
@@ -9,7 +9,7 @@ Populations of new American citizens who were born in Bhutan, the Democratic Rep
 
 The United States naturalized just four citizens who were born in Bhutan in 2001. The number increased to almost 7000 in 2019 just before the Covid-19 pandemic.
 
-Bhutan witnessed turmoil in the early 1990s. Tens of thousands of ethnic Nepalis were expelled from the Himalayan Kingdom according to Human Rights Watch. More than 77,000 refugees were admitted to the United States from Bhutan between 2010 and 2018, according to Refugee Processing Center data.
+Bhutan witnessed turmoil in the early 1990s. Tens of thousands of ethnic Nepalis were expelled from the Himalayan Kingdom according to Human Rights Watch. More than 77,000 refugees were admitted to the United States from Bhutan between 2010 and 2018, [according to Refugee Processing Center data](https://docs.google.com/spreadsheets/d/1hqNNStmSlAoCt313Ifg4ynHKxxem8dnH/edit?usp=sharing&ouid=114272850365599444803&rtpof=true&sd=true).
 
 A steady flow of refugees was also admitted to the United States from the Democratic Republic of Congo. The second-largest country in Africa witnessed continuous waves of violence causing the internal displacement of five million people within the nation.  
 
