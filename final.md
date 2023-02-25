@@ -61,7 +61,7 @@ When it comes to resettling refugees, the United States hit a historic low in 20
 
 “The U.S. has long been viewed as a leader in refugee resettlement around the world. And what has been happening over the last few years has not been consistent with that track record,” Middelstadt said. 
 
-The Trump administration left its mark not only on the number of refugees admitted but also on the capacity of the non-profit organizations that handle the task of resettling those who seek refuge far from the border. During 2022, resettling efforts failed to admit a quarter of the designated quota for the year. Just over 25,000 refugees were admitted out of 125,000. 
+The Trump administration left its mark not only on the number of refugees admitted but also on the capacity of the non-profit organizations that handle the task of resettling those who seek refuge far from the border. [During 2022, resettling efforts failed to admit a quarter of the designated quota for the year. Just over 25,000 refugees were admitted out of 125,000. ](https://docs.google.com/spreadsheets/d/1_J78MxSuVFKZ9wuI77Qy_nHJgd_GqdYH/edit?usp=sharing&ouid=114272850365599444803&rtpof=true&sd=true)
 
 ![myimage](RefugeesAdmittedVsQuota.jpg)
 
