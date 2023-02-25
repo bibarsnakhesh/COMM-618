@@ -5,6 +5,8 @@ Refugee populations in the United States have witnessed a faster rate of natural
 
 Populations of new American citizens who were born in Bhutan, the Democratic Republic of Congo, and Burma, have been among the fastest growing during the past two decades. 
 
+![myimage](NaturalizationIncreasePercentage.jpg)
+
 The United States naturalized just four citizens who were born in Bhutan in 2001. The number increased to almost 7000 in 2019 just before the Covid-19 pandemic.
 
 Bhutan witnessed turmoil in the early 1990s. Tens of thousands of ethnic Nepalis were expelled from the Himalayan Kingdom according to Human Rights Watch. More than 77,000 refugees were admitted to the United States from Bhutan between 2010 and 2018, according to Refugee Processing Center data.
@@ -17,6 +19,8 @@ Just over 100 new U.S. citizens came from the Democratic Republic of Congo in 20
 
 The majority of refugees resettled in the United States during the past decade came from the Democratic Republic of Congo, Burma, Bhutan, and Somalia. One out of five refugees admitted to the United States since 2010 came from Burma. In 2019, almost half of the refugees admitted to the United States came from the Democratic Republic of Congo. 
 
+![myimage](RefugeesDRCAfghanEriteriaBhutan.jpg)
+
 “They do not have the sense that they'll be returning to the country of origin, and many of them have been so relieved to come to a permanent stable situation, that they intend to always make their homes here,” Middelstadt said.
 
 Naturalization in the United States is usually granted to lawful permanent residents after meeting certain requirements. The path to permanent residency in the U.S. is usually easier for refugees and asylum seekers.
@@ -24,6 +28,8 @@ Naturalization in the United States is usually granted to lawful permanent resid
 Immigrants aiming to gain permanent residency or green cards often face a tedious task governed by bureaucracy and quotas that limit certain nationalities. However, refugees are allowed and required to apply for legal permanent residence after a year of living in the United States, according to the United States Citizenship and Immigration Services (USCIS). 
 
 “Refugees are people who went through an entire vetting and screening process while they were outside the United States”, Middelstadt said. “They are more vetted than other immigrant groups.”
+
+![myimage](RefugeesVsAsylees.jpg)
 
 While asylees arrive spontaneously at U.S. borders to seek protection, refugees apply for protection while overseas. When it comes to resettling these refugees, The United States delegates the task to non-governmental voluntary organizations. 
 
@@ -57,7 +63,7 @@ When it comes to resettling refugees, the United States hit a historic low in 20
 
 The Trump administration left its mark not only on the number of refugees admitted but also on the capacity of the non-profit organizations that handle the task of resettling those who seek refuge far from the border. During 2022, resettling efforts failed to admit a quarter of the designated quota for the year. Just over 25,000 refugees were admitted out of 125,000. 
 
-
+![myimage](RefugeesAdmittedVsQuota.jpg)
 
 “Because refugee funding was almost zeroed out by the Trump administration, the network of nonprofits who were taking care of refugees and resettlement budgets were zeroed out as well. They have struggled because they've lost so much. They lost so many people. They have been decimated,” Carruth said. 
 
