@@ -1,4 +1,4 @@
-# Refugee groups witnessed fastest growth in U.S. naturalization during the past two decades
+# Refugees are among the fastest groups in U.S. naturalization during the past two decades
 
 
 Refugee populations in the United States have witnessed a faster rate of naturalization than other migrant groups during the past twenty years [according to the U.S. Census Bureau data. ](https://docs.google.com/spreadsheets/d/1DkQngdQOYKiHlS_HsX7NxatTcu34XaSQLT1_TAVGw-4/edit?usp=sharing)
@@ -57,7 +57,7 @@ While the work of these non-profit agencies has provided a new home to tens of t
 
 “The problem with nonprofits is that their accountability mechanisms may not be equal”, Carruth said. “You can't vote them out with your feet. If a host community or refugee communities themselves finds their work to be problematic, you can't tell a nonprofit where to go. But if it's your local government that's sort of doing a poor job, you can vote out your representative.”
 
-When it comes to resettling refugees, the United States hit a historic low in 2020 with just over 11 thousand refugees admitted. This comes after a steady decrease of refugees allotted quotas during the Trump administration years. However, the U.S. right now is in the midst of historic levels of asylum-seeking at the southern border according to the Migration Policy institute. 
+When it comes to resettling refugees, the United States hit a historic low in 2020 with just over 11,000 refugees admitted. This comes after a steady decrease of refugees allotted quotas during the Trump administration years. However, the U.S. right now is in the midst of historic levels of asylum-seeking at the southern border according to the Migration Policy institute. 
 
 “The U.S. has long been viewed as a leader in refugee resettlement around the world. And what has been happening over the last few years has not been consistent with that track record,” Middelstadt said. 
 
